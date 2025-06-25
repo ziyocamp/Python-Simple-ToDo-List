@@ -28,7 +28,7 @@ Loyiha kichik bo‘lsa ham, quyidagi muhim konseptlarni o‘rgatadi:
 ## 📁 Loyiha tuzilmasi (strukturasi)
 
 ```
-simple_todo/
+Python-Simple-ToDo-List/
 ├── app/
 │   ├── __init__.py          # Modul sifatida ko‘rish uchun
 │   ├── main.py              # CLI menyu interfeysi
@@ -49,7 +49,7 @@ simple_todo/
 
 ### 📌 1-Topshiriq: Loyiha strukturasi yaratish
 
-* `simple_todo/` nomli papka oching
+* `Python-Simple-ToDo-List/` nomli papka oching
 * Unda `app/`, `data/` papkalarini yarating
 * `run.py`, `README.md`, `requirements.txt` fayllarini yarating
 
